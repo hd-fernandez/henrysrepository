@@ -1,2 +1,5 @@
 # stellar_classification
-Machine Learning and Predictive Analytics Final Project
+
+Machine Learning and Predictive Analytics Final Project. Take a look at the notebook to see our work relating to the prompt:
+
+Our client is an astronomical observatory that runs a publication about astronomical events, cosmology, planets, galaxies, asteroids, astrophotography. They have a stellar classification dataset of 100,00 observations, with information on the objects Right Ascension, declination, UGRIZ, Redshift and other features. The client wants to use Machine Learning to determine whether what they're observing is a Star, a Galaxy, or a Quasi-Stellar Object (QSO) (QSO is class of objects beyond our Milky Way Galaxy that have a starlike visual appearance except that the optical spectrum has a large redshift). This is a small observatory with limited resources and funding. They've hired us as data scientists to build the best model in performing this classification WITHOUT using too much computational power and runtime. In short, they want us to build the simplest and best possible model to perform the clsasification they need. Our research objective is to compare both the accuracy and speed of each model and determine the best one for this astronomical observatory and their limited resources and time constraints.
